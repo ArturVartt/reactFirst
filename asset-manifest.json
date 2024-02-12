@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactFirst/static/css/main.fa8f56e2.css",
+    "main.js": "/reactFirst/static/js/main.4c75cbb6.js",
+    "static/media/pizza01.png": "/reactFirst/static/media/pizza01.cc17bf2357b498ccbb3a.png",
+    "static/media/bascet.svg": "/reactFirst/static/media/bascet.a346076d3ef76cd3cc97555c698c8b03.svg",
+    "index.html": "/reactFirst/index.html",
+    "main.fa8f56e2.css.map": "/reactFirst/static/css/main.fa8f56e2.css.map",
+    "main.4c75cbb6.js.map": "/reactFirst/static/js/main.4c75cbb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa8f56e2.css",
+    "static/js/main.4c75cbb6.js"
+  ]
+}
